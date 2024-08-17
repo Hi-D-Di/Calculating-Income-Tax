@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_62pg9w1pTA7_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Calculating Income Tax</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Learn how to calculate taxable income and taxes owed. </langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Calculating_Income_Tax_ORG">
+    <organization identifier="Calculating_Income_Tax_ORG">
+      <title>Calculating Income Tax</title>
+      <item identifier="Income_Tax_SCO" isvisible="true" identifierref="__62pg9w1pTA7_course_id_RES">
+        <title>Calculating Income Tax</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__62pg9w1pTA7_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6BtAV48XWxU_80.jpg" />
+      <file href="mobile/5iTrsuLfvUf.png" />
+      <file href="mobile/6LsUcn4xTTh.png" />
+      <file href="mobile/6UYJqfu2RMi.png" />
+      <file href="mobile/6UYJqfu2RMi_P_254_0_136_702.png" />
+      <file href="mobile/6UYJqfu2RMi_P_0_0_138_701.png" />
+      <file href="mobile/60Uh4WdWNtp.png" />
+      <file href="mobile/5s6c0K0nwxY.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6JQHlpzNfq8.js" />
+      <file href="html5/data/js/6HMfGgVY4sX.js" />
+      <file href="html5/data/js/6Vshra3X28q.js" />
+      <file href="html5/data/js/5rpPNB7lHWM.js" />
+      <file href="html5/data/js/5WvSCvSmnR5.js" />
+      <file href="html5/data/js/60c9BOIRmIG.js" />
+      <file href="html5/data/js/62euoQSBznn.js" />
+      <file href="html5/data/js/6YTAvoqzaP3.js" />
+      <file href="html5/data/js/5wTV905ni3C.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/6DMnVTmiyQb.js" />
+      <file href="html5/data/js/6dJRuUeO9I0.js" />
+      <file href="html5/data/js/6GJjlN8y2qf.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/5dxIieBq31S.js" />
+      <file href="html5/data/js/5w5sPp1Gq9S.js" />
+      <file href="html5/data/js/5dxb4SsCBJo.js" />
+      <file href="html5/data/js/5yAlZKJo1qa.js" />
+      <file href="html5/data/js/6hh2ziIaLpO.js" />
+      <file href="html5/data/js/5hzsZ7TDQgS.js" />
+      <file href="html5/data/js/6TefqPM10wq.js" />
+      <file href="html5/data/js/68Y32Zb6p7V.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/6h3zXBRNSXo.js" />
+      <file href="html5/data/js/68p47iCHPIz.js" />
+      <file href="html5/data/js/6F7EamAujkO.js" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
